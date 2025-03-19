@@ -1,0 +1,2 @@
+O "Amigo Secreto" é uma aplicação web que realiza o sorteio dos participantes de maneira rápida e prática. Ao acessar o site, cada pessoa insere seu nome ou dr outras pessoas, e o sistema faz automaticamente o sorteio, indicando quem cada pessoa deve presentear. O processo é totalmente automatizado, sem a necessidade de papel, caneta ou sorteios manuais.
+O objetivo do projeto é facilitar a organização do tradicional jogo de amigo secreto, garantindo que cada pessoa saiba quem deverá presentear de forma rápida e sem complicações
